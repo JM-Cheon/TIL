@@ -1,5 +1,5 @@
 # Today I Learned
-[![Version](https://img.shields.io/badge/version-2017.8.30-red.svg)](./TIL_VERSION)
+[![Version](https://img.shields.io/badge/version-2023.07.31-red.svg)](./TIL_VERSION)
 * 그동안 나 자신을 너무 믿고 기록을 남기지 않고 외우기만 하다 어느순간 예전에 배운 것을 기억 못하는 나를 발견했다. 그래서 이제라도 전에 했던 실수를 반복하지 않도록 공부한 것, 경험한 것을 기록을 남긴다.
 
 ## 작성 규칙
